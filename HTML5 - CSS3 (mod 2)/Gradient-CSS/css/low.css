@@ -1,0 +1,12 @@
+*{
+  height: 100%;
+  text-align: center;
+}
+
+body{
+  background: linear-gradient(to bottom , brown , white);
+}
+
+button{
+  height: 50px;
+}
